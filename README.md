@@ -1,0 +1,1 @@
+Rezolvare tema laborator
