@@ -15,7 +15,7 @@ namespace Cripto_01.BaseClasses
 
         public SubstitutiePolialfabetica(string plainText)
         {
-            this.plainText = plainText;
+            this.plainText = plainText.ToUpper();
             encryptionKey = new();
             decryptionKey = new();
         }

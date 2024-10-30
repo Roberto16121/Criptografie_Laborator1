@@ -65,5 +65,7 @@ namespace Cripto_01.BaseClasses
                 plainText += decryptionKey[(int)key[i] - 65][cipherText[i]];
             }
         }
+
+
     }
 }
